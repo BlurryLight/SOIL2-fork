@@ -16,3 +16,6 @@ SDL2-2.0.20*
 Makefile
 CMakeCache.txt
 .vs
+
+compile_commands.json
+.cache/
